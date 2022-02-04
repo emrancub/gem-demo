@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["emrancub"]
   spec.email         = ["myself.emranhasan@gmail.com"]
 
-  spec.summary       = gem.description
-  spec.description   = %q{demo_notifier numbers adding normalization}
-  spec.homepage      = ""
+  spec.summary       = "This gem is make for testing"
+  spec.description   = "Testing gem write a longer description. Make this gem for only testing purpose. I am happy to see what happen"
+  spec.homepage      = "https://github.com/emrancub/gem-demo"
   spec.required_ruby_version = ">= 2.7.3"
 
   spec.metadata["allowed_push_host"] = "https://github.com/emrancub/gem-demo"
