@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82e8831d-250d-49ef-bfa9-eff3b42b77c4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo_notifier/demo_notifier.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/demo_notifier/demo_notifier.gemspec" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo_notifier/lib/demo_notifier/version.rb" beforeDir="false" afterPath="$PROJECT_DIR$/demo_notifier/lib/demo_notifier/version.rb" afterDir="false" />
     </list>
@@ -159,7 +160,7 @@
       <workItem from="1632885776202" duration="1353000" />
       <workItem from="1643182318193" duration="827000" />
       <workItem from="1643888957763" duration="6717000" />
-      <workItem from="1643946376533" duration="5690000" />
+      <workItem from="1643946376533" duration="6582000" />
     </task>
     <servers />
   </component>
