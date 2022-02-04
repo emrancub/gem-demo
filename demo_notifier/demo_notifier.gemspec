@@ -10,14 +10,14 @@ Gem::Specification.new do |spec|
 
    spec.summary       = "This gem is make for testing"
    spec.description   = "Testing gem write a longer description. Make this gem for only testing purpose. I am happy to see what happen"
-  # spec.homepage      = "https://github.com/emrancub/gem-demo"
-  # spec.required_ruby_version = ">= 2.7.3"
+   spec.homepage      = "https://github.com/emrancub/gem-demo"
+   spec.required_ruby_version = ">= 2.7.3"
 
-  # spec.metadata["allowed_push_host"] = "https://github.com/emrancub/gem-demo"
-  #
-  # spec.metadata["homepage_uri"] = spec.homepage
-  # spec.metadata["source_code_uri"] = "https://github.com/emrancub/gem-demo"
-  # spec.metadata["changelog_uri"] = "https://github.com/emrancub/gem-demo"
+   spec.metadata["allowed_push_host"] = "https://github.com/emrancub/gem-demo"
+
+   spec.metadata["homepage_uri"] = spec.homepage
+   spec.metadata["source_code_uri"] = "https://github.com/emrancub/gem-demo"
+   spec.metadata["changelog_uri"] = "https://github.com/emrancub/gem-demo"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
