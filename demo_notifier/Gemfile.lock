@@ -1,0 +1,19 @@
+PATH
+  remote: .
+  specs:
+    demo_notifier (2.1.6)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (13.0.6)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  demo_notifier!
+  rake (~> 13.0)
+
+BUNDLED WITH
+   2.2.29
